@@ -1,0 +1,11 @@
+.godot/
+build/
+*.tmp
+.DS_Store
+.idea/
+
+# Heavy media (card art, motion clips, depth maps) lives in a GitHub Release,
+# not in git — restore it with: ./tools/fetch_media.sh
+assets/art/
+assets/motion/
+assets/depth/
