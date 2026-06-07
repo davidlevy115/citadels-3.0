@@ -8,7 +8,7 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-REPO="davidlevy-wd/citadels-3.0"
+REPO="davidlevy115/citadels-3.0"
 TAG="media-v1"
 ASSET="citadels-media.tar.gz"
 TMP="$(mktemp -d)/$ASSET"
